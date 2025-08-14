@@ -15,3 +15,51 @@ birds = [Bird(), Sparrow(), Penguin()]
 
 for b in birds:
     b.stance()
+
+
+class Penguin(Bird):
+    def stance(self):
+        print("The penguin is waddling.")
+class Penguin(Bird):
+    def stance(self):
+        print("The penguin is waddling.")
+class Penguin(Bird):
+    def stance(self):
+        print("The penguin is waddling.")
+class Penguin(Bird):
+    def stance(self):
+        print("The penguin is waddling.")
+class Penguin(Bird):
+    def stance(self):
+        print("The penguin is waddling.")
+class Penguin(Bird):
+    def stance(self):
+        print("The penguin is waddling.")
+class Penguin(Bird):
+    def stance(self):
+        print("The penguin is waddling.")
+class Penguin(Bird):
+    def stance(self):
+        print("The penguin is waddling.")
+class Penguin(Bird):
+    def stance(self):
+        print("The penguin is waddling.")
+class Penguin(Bird):
+    def stance(self):
+        print("The penguin is waddling.")
+class Penguin(Bird):
+    def stance(self):
+        print("The penguin is waddling.")
+class Penguin(Bird):
+    def stance(self):
+        print("The penguin is waddling.")
+class Penguin(Bird):
+    def stance(self):
+        print("The penguin is waddling.")
+class Penguin(Bird):
+    def stance(self):
+        print("The penguin is waddling.")
+
+
+
+
